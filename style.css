@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+    color: whitesmoke;
+    td{
+        border:2px solid black;
+    }
+    a{
+        background-color: rgb(141, 182, 152);
+    }
+    .red{
+        color: antiquewhite;
+    }
+    .blue{
+        background-color: aqua;
+    }
+    #firstdiv{
+
+    }
+    #seconddiv{
+        background-color: beige;
+    }
+    
+}
